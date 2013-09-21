@@ -1,7 +1,7 @@
 csv2json
 ========
 
-csv2json is a csv parser and json converter based on d3 csv implementation.
+csv2json is a csv parser and json converter based on [d3](https://github.com/mbostock/d3) csv implementation. Most of the code is taken directly from [d3](https://github.com/mbostock/d3).
 
 ## Usage
 
