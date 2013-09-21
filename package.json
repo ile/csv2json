@@ -1,0 +1,22 @@
+{
+  "name": "csv2json",
+  "version": "0.0.0",
+  "description": "csv2json",
+  "main": "csv2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ile/csv2json.git"
+  },
+  "devDependencies": {
+    "smash": "~0.0.8",
+    "uglify-js": "2.3.6"
+  },
+  "author": "Ilkka Huotari <ilkkah@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ile/csv2json/issues"
+  }
+}
