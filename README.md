@@ -3,10 +3,14 @@ csv2json
 
 csv2json is a csv parser and json converter based on [d3](https://github.com/mbostock/d3) csv implementation. Most of the code is taken directly from [d3](https://github.com/mbostock/d3).
 
+## Install
+
+Download [csv2json.min.js](https://raw.github.com/ile/csv2json/master/csv2json.min.js) or do `bower install csv2json`.
+
 ## Usage
 
 ```html
-<script src="csv2json.js"></script>
+<script src="csv2json.min.js"></script>
 ```
 
 ## New features
