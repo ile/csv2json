@@ -14,6 +14,7 @@
     "bower_components",
     "test",
     "bin",
+    "package.json",
     "tests"
   ]
 }
