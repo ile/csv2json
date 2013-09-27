@@ -15,6 +15,7 @@
     "test",
     "bin",
     "package.json",
+    "Makefile",
     "tests"
   ]
 }
