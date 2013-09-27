@@ -1,7 +1,7 @@
 {
   "name": "csv2json",
   "main": "csv2json.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/ile/csv2json",
   "authors": [
     "ilkkah <ilkkah@gmail.com>"
@@ -16,6 +16,7 @@
     "bin",
     "package.json",
     "Makefile",
+    "src",
     "tests"
   ]
 }
